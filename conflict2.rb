@@ -1,2 +1,2 @@
 puts "Hello world"
-puts "Ohayou"
+puts "konnichiwa"
